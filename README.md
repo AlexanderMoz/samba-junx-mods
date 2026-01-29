@@ -1,4 +1,4 @@
-About Samba mods
+About Samba Junx mods
 ===========
 
 - [x] Mod 1    // LDAP context refreshing
